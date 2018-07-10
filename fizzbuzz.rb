@@ -1,6 +1,8 @@
 def fizzbuzz(x)
   if x%3==0
     puts "Fizz"
+  else 
+    puts "Buzz"
   end
 end
 
